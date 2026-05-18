@@ -1,0 +1,14 @@
+{
+  "name": "極簡記支出",
+  "short_name": "記支出",
+  "description": "極簡、少輸入嘅每日支出記帳：開 app → 打一句 → 收工。可裝主畫面、離線可用。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1117",
+  "theme_color": "#0e1117",
+  "lang": "zh-Hant",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
